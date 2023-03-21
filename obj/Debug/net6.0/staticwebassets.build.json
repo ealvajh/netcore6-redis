@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gMY2/s/Sfh2c07LwGcgjCBgPVGKG0QihsMDtmiGBWFM=",
+  "Source": "redisApp",
+  "BasePath": "_content/redisApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
